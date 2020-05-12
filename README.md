@@ -1,4 +1,4 @@
-# Softe Edit Distance
+# Soft Edit Distance
 [Chainer](https://github.com/chainer/chainer/)-based Python implementation of Soft Edit Distance.
 
 ## Requirement
